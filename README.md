@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with ... Being a better programmer
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... shawn.harrington2776@gmail.com
-- 😄 Pronouns: ... he/ him
 - ⚡ Fun fact: ... The initials of my first and second child form the name of my third!
