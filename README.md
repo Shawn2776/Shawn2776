@@ -1,6 +1,6 @@
 ### Here's what I'm working on! 👋
 
-- 🔭 I’m currently working on ... aspx andTerminal Four
+- 🔭 I’m currently working on ... ASPX and Terminal Four
 - 🌱 I’m currently learning ... Terminal Four
 - 👯 I’m looking to collaborate on ... any web projects
 - 🤔 I’m looking for help with ... Web Accessibility
